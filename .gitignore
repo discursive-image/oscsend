@@ -1,2 +1,6 @@
+# SPDX-FileCopyrightText: 2020 jecoz
+#
+# SPDX-License-Identifier: MIT
+
 .DS_Store
 bin/

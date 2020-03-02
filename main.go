@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2020 jecoz
+//
+// SPDX-License-Identifier: MIT
+
 package main
 
 import (
